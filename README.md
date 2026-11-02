@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋Hi, I'm Sohit Sharma. I have completed my B.Tech in Computer Science Engineering.<br><br>🤩"Currently, I am working on an AI-related project. I am exploring how AI can be used to solve real-world problems. I am learning new AI tools and technologies and improving my practical knowledge through this project."<br>🫡I'm Currently learning Full Stack Java Development With AI.<br>💬Ask me About SQL,Java , HTML,CSS Java Script.<br>
+👋Hi, I'm Sohit Sharma. I have completed my B.Tech in Computer Science Engineering.<br><br>🤩"Currently, I am working on an AI-related   project. I am exploring how AI can be used to solve real-world problems. I am learning new AI tools and technologies and improving my practical knowledge through this project."<br>🫡I'm Currently learning Full Stack Java Development With AI.<br>💬Ask me About SQL,Java , HTML,CSS Java Script.<br>
 
 
 ## 🌐 Socials:
@@ -13,10 +13,4 @@
 ![](https://streak-stats.demolab.com/?user=Sohit800&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sohit800&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Sohit800&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
