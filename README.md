@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋Hi, I'm Sohit Sharma. I have completed my B.Tech in Computer Science Engineering.<br><br>🤩"Currently, I am working on an AI-related   project. I am exploring how AI can be used to solve real-world problems. I am learning new AI tools and technologies and improving my practical knowledge through this project."<br>🫡I'm Currently learning Full Stack Java Development With AI.<br>💬Ask me About SQL,Java , HTML,CSS Java Script , Basics Python , LLm.<br>
+👋Hi, I'm Sohit Sharma. I have completed my B.Tech in Computer Science Engineering.<br><br>🤩"Currently, I am working on an AI-related   project. I am exploring how AI can be used to solve real-world problems. I am learning new AI tools and technologies and improving my practical knowledge through this project."<br>🫡I'm Currently learning Full Stack Java Development With AI.<br>💬Ask me About SQL,Java , HTML,CSS Java Script , Basics Python , LLM.<br>
 
 
 ## 🌐 Socials:
